@@ -1,3 +1,4 @@
+This restaurant management system project is carried out for our DBMS project in 4th sem.
 # Home Preview
 ![Screenshot (33)](https://user-images.githubusercontent.com/77279319/178327156-ae2f2c39-7424-4435-a515-60fb92cb71ad.png)
 # Menu
